@@ -80,7 +80,7 @@ We now want to initialize our constructor inside of the App.tsx class
 ```
 This just initializes the state we want to store later.
 
-We will now start with the onDrop function. The onDrop's fuunction has the responsibility of displaying the image when dragged and dropped onto the screen.
+We will now start with the onDrop function. The onDrop's function has the responsibility of displaying the image when dragged and dropped onto the screen.
 
 ```typescript
  public onDrop(files: any) {
